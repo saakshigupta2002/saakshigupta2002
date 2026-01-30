@@ -37,7 +37,7 @@ I love working at the intersection of **core software engineering** and **AI**, 
 📅 class_of: 2025
 🔬 focus: AI Engineering, LLMs, Agentic Systems
 🌱 exploring: RAG, Vector DBs, MCP, AI Agents
-☕ fun_fact: I debug better with chai ✨
+☕ fun_fact: I debug better with coffee ✨
 ```
 
 <br clear="right"/>
