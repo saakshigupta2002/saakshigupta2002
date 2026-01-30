@@ -217,92 +217,32 @@ Learning through hands-on<br/>projects and constant<br/>experimentation
 
 <div align="center">
 
-> ✨ *I'm actively refining and publishing projects — exciting work coming soon!*
+<a href="https://github.com/saakshigupta2002/FinGraphRAG">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saakshigupta2002&repo=FinGraphRAG&theme=radical&bg_color=141321&title_color=FFB6C1&text_color=FFC0CB&icon_color=FFB6C1&border_color=FFB6C1" />
+</a>
+<a href="https://github.com/saakshigupta2002/PR_Orchestrator_MCP">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saakshigupta2002&repo=PR_Orchestrator_MCP&theme=radical&bg_color=141321&title_color=FFB6C1&text_color=FFC0CB&icon_color=FFB6C1&border_color=FFB6C1" />
+</a>
+
+<a href="https://github.com/saakshigupta2002/FutureVest">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saakshigupta2002&repo=FutureVest&theme=radical&bg_color=141321&title_color=FFB6C1&text_color=FFC0CB&icon_color=FFB6C1&border_color=FFB6C1" />
+</a>
+<a href="https://github.com/saakshigupta2002/Co-Founder-Matching">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saakshigupta2002&repo=Co-Founder-Matching&theme=radical&bg_color=141321&title_color=FFB6C1&text_color=FFC0CB&icon_color=FFB6C1&border_color=FFB6C1" />
+</a>
+
+</div>
 
 <br/>
 
-<table>
-<tr>
-<td width="50%">
-
 <div align="center">
 
-### 🤖 AI Agent System
-*`🚧 In Development`*
-
-Multi-agent system with tool-use capabilities and MCP integration.
-
-`Python` `LangChain` `OpenAI` `MCP`
-
-</div>
-
-</td>
-<td width="50%">
-
-<div align="center">
-
-### 🔗 RAG Application
-*`🚧 In Development`*
-
-Document Q&A system with vector search and semantic retrieval.
-
-`Python` `Qdrant` `LlamaIndex` `FastAPI`
-
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<div align="center">
-
-### 📊 ML Pipeline
-*`📝 Planning Phase`*
-
-End-to-end ML pipeline with experiment tracking and model serving.
-
-`Python` `MLflow` `Docker` `AWS`
-
-</div>
-
-</td>
-<td width="50%">
-
-<div align="center">
-
-### 🧠 LLM Fine-tuning
-*`💭 Ideation`*
-
-Custom model fine-tuning for domain-specific applications.
-
-`PyTorch` `HuggingFace` `LoRA` `vLLM`
-
-</div>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📚 Education Journey
-
-<div align="center">
-
-### 🎓 University of Queensland
-
-<br/>
-
-| 📅 Year | 🎯 Milestone |
-|:---:|:---|
-| 2025 | 🎉 **Graduation** — BE (Hons.) Software Engineering |
-| 2024 | 💼 Final year projects & industry preparation |
-| 2023 | 🤖 Deep dive into AI/ML coursework |
-| 2022 | 💻 Core software engineering foundations |
-| 2021 | 🚀 Started university journey |
+| Project | Description | Tech Stack |
+|:--------|:------------|:-----------|
+| 🔗 **[FinGraphRAG](https://github.com/saakshigupta2002/FinGraphRAG)** | GraphRAG system for financial research with knowledge graphs & vector search | `Neo4j` `Qdrant` `FastAPI` `React` `LLM` |
+| 🤖 **[PR Orchestrator MCP](https://github.com/saakshigupta2002/PR_Orchestrator_MCP)** | MCP server for automated PR creation with sandboxed execution & GitHub integration | `Python` `MCP` `E2B` `GitHub API` |
+| 📈 **[FutureVest](https://github.com/saakshigupta2002/FutureVest)** | Microservices stock analysis platform deployed on AWS ECS Fargate | `React` `TypeScript` `Flask` `AWS` `Docker` |
+| 🤝 **[Co-Founder Matching](https://github.com/saakshigupta2002/Co-Founder-Matching)** | UQ Ventures platform for startup co-founder matching | `React Native` `Expo` `TypeScript` `Python` |
 
 </div>
 
