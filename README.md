@@ -268,23 +268,6 @@ Learning through hands-on<br/>projects and constant<br/>experimentation
 
 ---
 
-## 🎀 Fun Facts About Me
-
-<div align="center">
-
-| | |
-|:---:|:---|
-| 🍵 | Chai is my debugging fuel |
-| 🌙 | Night owl coder (best ideas come after midnight!) |
-| 📚 | Love reading AI research papers |
-| 🎨 | Appreciate beautiful, clean UI/UX |
-| 🌏 | Dream of contributing to impactful open source |
-| 🤖 | Fascinated by how LLMs reason |
-
-</div>
-
----
-
 ## 🎵 Coding Vibes
 
 <div align="center">
