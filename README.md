@@ -248,21 +248,12 @@ Learning through hands-on<br/>projects and constant<br/>experimentation
 
 ---
 
-## ✨ My Philosophy
 
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Good%20software%20is%20not%20just%20built%20—%20it%20is%20carefully%20designed,%20tested,%20and%20refined.&author=My%20Coding%20Philosophy"/>
 
-<br/><br/>
 
-| 💭 Principle | 📝 Application |
-|:---|:---|
-| **Clarity over Cleverness** | Code should be readable first, optimized second |
-| **Test Early, Test Often** | Quality assurance isn't an afterthought |
-| **Embrace Learning** | Every bug is a lesson in disguise |
-| **Design with Intent** | Architecture decisions matter |
-| **Stay Curious** | Technology evolves; so should we |
 
 </div>
 
