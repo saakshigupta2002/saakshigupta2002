@@ -34,7 +34,6 @@ I love working at the intersection of **core software engineering** and **AI**, 
 📍 location: Australia 🇦🇺
 🎓 education: BE (Hons.) Software Engineering
 🏫 university: University of Queensland
-📅 class_of: 2025
 🔬 focus: AI Engineering, LLMs, Agentic Systems
 🌱 exploring: RAG, Vector DBs, MCP, AI Agents
 ☕ fun_fact: I debug better with coffee ✨
