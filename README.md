@@ -43,35 +43,6 @@ I love working at the intersection of **core software engineering** and **AI**, 
 
 ---
 
-## 💭 What Drives Me
-
-<div align="center">
-<table>
-<tr>
-<td width="33%" align="center">
-  
-### 🎀 Clean Code
-Writing maintainable,<br/>readable code that<br/>solves real problems
-
-</td>
-<td width="33%" align="center">
-  
-### 🌷 AI Systems
-Building intelligent<br/>applications with LLMs,<br/>RAG & Agentic AI
-
-</td>
-<td width="33%" align="center">
-
-### 🦋 Continuous Growth
-Learning through hands-on<br/>projects and constant<br/>experimentation
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
 ## 🧠 Areas of Interest
 
 <div align="center">
