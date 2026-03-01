@@ -152,37 +152,6 @@ I love working at the intersection of **core software engineering** and **AI**, 
 
 ---
 
-## 🎯 Current Goals & Focus
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌸 What I'm Building
-- 🤖 AI agents with tool-use capabilities
-- 🔗 RAG systems with vector databases
-- 🏗️ LLM-powered applications
-- 📊 End-to-end ML pipelines
-
-</td>
-<td width="50%">
-
-### 🌷 What I'm Learning
-- 🧠 Advanced prompt engineering
-- ⚡ Model optimization & deployment
-- 🔄 Agentic AI frameworks
-- ☁️ Cloud-native AI architecture
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 📌 Featured Projects
 
 <div align="center">
