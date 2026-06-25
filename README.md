@@ -101,7 +101,9 @@ I love working at the intersection of **core software engineering** and **AI**, 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saakshigupta2002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FFB6C1&icon_color=FFB6C1&text_color=ffffff"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saakshigupta2002&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFB6C1&text_color=ffffff"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saakshigupta2002&theme=tokyonight&hide_border=true&background=0d1117&stroke=FFB6C1&ring=FFB6C1&fire=FFB6C1&currStreakLabel=FFB6C1" />
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=saakshigupta2002&theme=tokyonight&hide_border=true&background=0d1117&stroke=FFB6C1&ring=FFB6C1&fire=FFB6C1&currStreakLabel=FFB6C1" />
 
 </div>
 
@@ -124,9 +126,9 @@ I love working at the intersection of **core software engineering** and **AI**, 
 
 > *"Good software is not just built — it is carefully designed, tested, and refined."*
 > >
-> > > — My Coding Philosophy
-> > >
-> > > </div>
+> >> — My Coding Philosophy
+> >>
+> >> </div>
 
 ---
 
@@ -134,7 +136,7 @@ I love working at the intersection of **core software engineering** and **AI**, 
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programming+increases+goes+as+a+power+of+program+size.&author=Fred+Brooks)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
