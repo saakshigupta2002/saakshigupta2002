@@ -14,41 +14,17 @@
 
 </div>
 
-<!-- ─────────────────────────  HERO: photo + neofetch card  ───────────────────────── -->
+<!-- ─────────────────  HERO: ASCII-art portrait + neofetch card  ───────────────── -->
 
-<table>
-<tr>
-<td width="34%" align="center" valign="middle">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/saakshigupta2002/saakshigupta2002/main/assets/profile.jpg" width="230" alt="Saakshi Gupta" />
+<img src="https://raw.githubusercontent.com/saakshigupta2002/saakshigupta2002/main/assets/profile-ascii.svg" width="880" alt="Saakshi Gupta — ASCII portrait & neofetch profile card" />
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=saakshigupta2002&style=flat-square&color=FFB6C1&label=Profile+Views)
 
-</td>
-<td width="66%" valign="middle">
-
-```yaml
-saakshi@github
-─────────────────────────────────────────────
-  Name .......... Saakshi Gupta
-  Role .......... Software Engineer  ·  AI
-  Location ...... Australia 🇦🇺
-  Education ..... BE (Hons.) Software Engineering
-  University .... University of Queensland  '25
-  Focus ......... LLMs · RAG · Agentic Systems
-  Exploring ..... Vector DBs · MCP · AI Agents
-  Languages ..... Python · Java · C++ · TypeScript
-  Currently ..... Building agentic AI systems
-  Fun fact ...... I debug better with coffee ✨
-  Contact ....... saakshigupta2002@gmail.com
-─────────────────────────────────────────────
-```
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
