@@ -2,7 +2,7 @@
 
 # ✿ Hi, I'm Saakshi ✿
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=22&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&repeat=true&width=500&height=70&lines=Software+Engineer+%7C+AI+Enthusiast;UQ+'25+Graduate;Building+Agentic+AI+Systems;LLM+%26+RAG+Engineer;Always+Learning+%F0%9F%8C%B1" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=22&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=Software+Engineer+%7C+AI+Enthusiast;UQ+'25+Graduate+%7C+Always+Learning+✨"/>
 
 <br/>
 
@@ -12,27 +12,62 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FFB6C1?style=flat-square&logo=safari&logoColor=white)](https://saakshi-gupta.vercel.app)
 [![Medium](https://img.shields.io/badge/Medium-FFB6C1?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@saakshigupta2002)
 
-<img src="https://komarev.com/ghpvc/?username=saakshigupta2002&color=FFB6C1&style=flat-square&label=Profile+Views" alt="Profile Views" />
-
 </div>
+
+<!-- ─────────────────────────  HERO: photo + neofetch card  ───────────────────────── -->
+
+<table>
+<tr>
+<td width="34%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/saakshigupta2002/saakshigupta2002/main/assets/profile.jpg" width="230" alt="Saakshi Gupta" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=saakshigupta2002&style=flat-square&color=FFB6C1&label=Profile+Views)
+
+</td>
+<td width="66%" valign="middle">
+
+```yaml
+saakshi@github
+─────────────────────────────────────────────
+  Name .......... Saakshi Gupta
+  Role .......... Software Engineer  ·  AI
+  Location ...... Australia 🇦🇺
+  Education ..... BE (Hons.) Software Engineering
+  University .... University of Queensland  '25
+  Focus ......... LLMs · RAG · Agentic Systems
+  Exploring ..... Vector DBs · MCP · AI Agents
+  Languages ..... Python · Java · C++ · TypeScript
+  Currently ..... Building agentic AI systems
+  Fun fact ...... I debug better with coffee ✨
+  Contact ....... saakshigupta2002@gmail.com
+─────────────────────────────────────────────
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🌸 About Me
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
+
 Hey there! I'm **Saakshi** — a passionate **Software Engineering graduate** from the **University of Queensland** with a deep curiosity for how intelligent systems are built, scaled, and improved.
 
 I love working at the intersection of **core software engineering** and **AI**, always focusing on clarity, reliability, and meaningful impact. Currently exploring **Agentic AI**, **RAG systems**, and **LLM-powered applications**.
 
-```yaml
-👩‍💻 name:       Saakshi Gupta
-📍 location:   Australia 🇦🇺
-🎓 education:  BE (Hons.) Software Engineering
-🏫 university: University of Queensland
-🔬 focus:      AI Engineering, LLMs, Agentic Systems
-🌱 exploring:  RAG, Vector DBs, MCP, AI Agents
-☕ fun_fact:   I debug better with coffee ✨
-```
+<br/>
+
+- 🔭 Currently building **agentic AI systems**, **RAG pipelines**, and **LLM-powered apps**
+- 🌱 Diving deeper into **Vector Databases**, **MCP**, and **AI orchestration**
+- 💬 Ask me about **AI Engineering**, **backend systems**, or **clean architecture**
+- 📫 Reach me at **saakshigupta2002@gmail.com**
+
+<br clear="right"/>
 
 ---
 
@@ -40,14 +75,7 @@ I love working at the intersection of **core software engineering** and **AI**, 
 
 <div align="center">
 
-![Agentic AI](https://img.shields.io/badge/🤖_Agentic_AI-1a1a2e?style=for-the-badge)
-![LLM Applications](https://img.shields.io/badge/🧬_LLM_Applications-1a1a2e?style=for-the-badge)
-![RAG Systems](https://img.shields.io/badge/🔗_RAG_Systems-1a1a2e?style=for-the-badge)
-![Vector Databases](https://img.shields.io/badge/📊_Vector_Databases-1a1a2e?style=for-the-badge)
-![Backend Systems](https://img.shields.io/badge/⚙️_Backend_Systems-1a1a2e?style=for-the-badge)
-![AI Architecture](https://img.shields.io/badge/🏗️_AI_Architecture-1a1a2e?style=for-the-badge)
-![MLOps](https://img.shields.io/badge/🔄_MLOps-1a1a2e?style=for-the-badge)
-![Cloud AI](https://img.shields.io/badge/☁️_Cloud_AI-1a1a2e?style=for-the-badge)
+`🤖 Agentic AI` `🧬 LLM Applications` `🔗 RAG Systems` `📊 Vector Databases` `⚙️ Backend Systems` `🏗️ AI Architecture` `🔄 MLOps` `☁️ Cloud AI`
 
 </div>
 
@@ -58,37 +86,55 @@ I love working at the intersection of **core software engineering** and **AI**, 
 <div align="center">
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,cpp,c,javascript,typescript,html,css&theme=dark" />
+
+<br/><br/>
 
 ### 🤖 AI & Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-D4A27F?style=for-the-badge&logoColor=white)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,langchain,huggingface,openai&theme=dark" />
+
+<br/><br/>
 
 ### 🗄️ Databases & Vector Stores
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mongodb,neo4j,pinecone,redis&theme=dark" />
+
+<br/><br/>
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,docker,kubernetes,github,gitlab&theme=dark" />
+
+<br/><br/>
+
+### 🔧 Tools & Frameworks
+<img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,flask,nodejs,react,linux,vscode&theme=dark" />
+
+<br/><br/>
+
+### 🧪 AI Engineering Stack
+
+<table>
+<tr>
+<td align="center">🦜 LangChain</td>
+<td align="center">🔗 LlamaIndex</td>
+<td align="center">🤗 HuggingFace</td>
+<td align="center">🎯 Qdrant</td>
+<td align="center">🌲 Pinecone</td>
+</tr>
+<tr>
+<td align="center">🔮 OpenAI API</td>
+<td align="center">🧠 Anthropic</td>
+<td align="center">⚡ vLLM</td>
+<td align="center">📡 MCP</td>
+<td align="center">🤖 AI Agents</td>
+</tr>
+<tr>
+<td align="center">📚 RAG</td>
+<td align="center">🔄 MLflow</td>
+<td align="center">📊 Weights & Biases</td>
+<td align="center">🏗️ ChromaDB</td>
+<td align="center">⛓️ Weaviate</td>
+</tr>
+</table>
 
 </div>
 
@@ -98,12 +144,37 @@ I love working at the intersection of **core software engineering** and **AI**, 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saakshigupta2002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FFB6C1&icon_color=FFB6C1&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saakshigupta2002&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFB6C1&text_color=ffffff"/>
+<img src="https://github-readme-stats.vercel.app/api?username=saakshigupta2002&show_icons=true&theme=radical&bg_color=141321&title_color=FFB6C1&text_color=FFC0CB&icon_color=FFB6C1&border_color=FFB6C1&hide_border=false&border_radius=15&include_all_commits=true&count_private=true" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saakshigupta2002&theme=radical&background=141321&ring=FFB6C1&fire=FFC0CB&currStreakLabel=FFB6C1&sideLabels=FFB6C1&currStreakNum=FFC0CB&sideNums=FFC0CB&dates=FFC0CB&border=FFB6C1&border_radius=15" height="180"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saakshigupta2002&layout=donut&theme=radical&bg_color=141321&title_color=FFB6C1&text_color=FFC0CB&border_color=FFB6C1&border_radius=15&langs_count=8" height="200"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saakshigupta2002&bg_color=141321&color=FFB6C1&line=FFC0CB&point=FFE4E1&area_color=FFB6C1&area=true&hide_border=false&custom_title=📈%20My%20Contribution%20Graph&title_color=FFB6C1&radius=15" width="95%"/>
+
+</div>
+
+---
+
+## 📈 Profile Insights
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saakshigupta2002&theme=dracula"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=saakshigupta2002&theme=tokyonight&hide_border=true&background=0d1117&stroke=FFB6C1&ring=FFB6C1&fire=FFB6C1&currStreakLabel=FFB6C1" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saakshigupta2002&theme=dracula" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saakshigupta2002&theme=dracula" height="150"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saakshigupta2002&theme=dracula" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saakshigupta2002&theme=dracula&utcOffset=10" height="150"/>
 
 </div>
 
@@ -111,12 +182,36 @@ I love working at the intersection of **core software engineering** and **AI**, 
 
 ## 📌 Featured Projects
 
+<div align="center">
+
+<a href="https://github.com/saakshigupta2002/FinGraphRAG">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saakshigupta2002&repo=FinGraphRAG&theme=radical&bg_color=141321&title_color=FFB6C1&text_color=FFC0CB&icon_color=FFB6C1&border_color=FFB6C1" />
+</a>
+<a href="https://github.com/saakshigupta2002/PR_Orchestrator_MCP">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saakshigupta2002&repo=PR_Orchestrator_MCP&theme=radical&bg_color=141321&title_color=FFB6C1&text_color=FFC0CB&icon_color=FFB6C1&border_color=FFB6C1" />
+</a>
+
+<a href="https://github.com/saakshigupta2002/FutureVest">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saakshigupta2002&repo=FutureVest&theme=radical&bg_color=141321&title_color=FFB6C1&text_color=FFC0CB&icon_color=FFB6C1&border_color=FFB6C1" />
+</a>
+<a href="https://github.com/saakshigupta2002/Co-Founder-Matching">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saakshigupta2002&repo=Co-Founder-Matching&theme=radical&bg_color=141321&title_color=FFB6C1&text_color=FFC0CB&icon_color=FFB6C1&border_color=FFB6C1" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
 | Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🔗 [**FinGraphRAG**](https://github.com/saakshigupta2002) | GraphRAG system for financial research with knowledge graphs & vector search | `Neo4j` `Qdrant` `FastAPI` `React` `LLM` |
-| 🤖 [**PR Orchestrator MCP**](https://github.com/saakshigupta2002) | MCP server for automated PR creation with sandboxed execution & GitHub integration | `Python` `MCP` `E2B` `GitHub API` |
-| 📈 [**FutureVest**](https://github.com/saakshigupta2002) | Microservices stock analysis platform deployed on AWS ECS Fargate | `React` `TypeScript` `Flask` `AWS` `Docker` |
-| 🤝 [**Co-Founder Matching**](https://github.com/saakshigupta2002) | UQ Ventures platform for startup co-founder matching | `React Native` `Expo` `TypeScript` `Python` |
+|:--------|:------------|:-----------|
+| 🔗 **[FinGraphRAG](https://github.com/saakshigupta2002/FinGraphRAG)** | GraphRAG system for financial research with knowledge graphs & vector search | `Neo4j` `Qdrant` `FastAPI` `React` `LLM` |
+| 🤖 **[PR Orchestrator MCP](https://github.com/saakshigupta2002/PR_Orchestrator_MCP)** | MCP server for automated PR creation with sandboxed execution & GitHub integration | `Python` `MCP` `E2B` `GitHub API` |
+| 📈 **[FutureVest](https://github.com/saakshigupta2002/FutureVest)** | Microservices stock analysis platform deployed on AWS ECS Fargate | `React` `TypeScript` `Flask` `AWS` `Docker` |
+| 🤝 **[Co-Founder Matching](https://github.com/saakshigupta2002/Co-Founder-Matching)** | UQ Ventures platform for startup co-founder matching | `React Native` `Expo` `TypeScript` `Python` |
+
+</div>
 
 ---
 
@@ -124,11 +219,21 @@ I love working at the intersection of **core software engineering** and **AI**, 
 
 <div align="center">
 
-> *"Good software is not just built — it is carefully designed, tested, and refined."*
-> >
-> >> — My Coding Philosophy
-> >>
-> >> </div>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Good%20software%20is%20not%20just%20built%20—%20it%20is%20carefully%20designed,%20tested,%20and%20refined.&author=My%20Coding%20Philosophy"/>
+
+</div>
+
+---
+
+## 🎵 Coding Vibes
+
+<div align="center">
+
+*Music keeps me in the flow state* 🎧
+
+`🎵 Lofi Beats` `🎶 Chill Playlists` `🎹 Focus Music` `☕ Café Ambience`
+
+</div>
 
 ---
 
@@ -136,7 +241,7 @@ I love working at the intersection of **core software engineering** and **AI**, 
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/>
 
 </div>
 
@@ -148,11 +253,23 @@ I love working at the intersection of **core software engineering** and **AI**, 
 
 *I'm always excited to meet fellow developers, discuss AI, or collaborate on interesting projects!*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saakshigupta-/)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saakshigupta2002@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FFB6C1?style=for-the-badge&logo=safari&logoColor=white)](https://saakshi-gupta.vercel.app)
+<br/>
 
-**💬 Open to:** `Collaborations` · `Job Opportunities` · `Coffee Chats` · `AI Discussions` · `Project Ideas`
+<a href="https://www.linkedin.com/in/saakshigupta-/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:saakshigupta2002@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say_hello-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://saakshi-gupta.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-FFB6C1?style=for-the-badge&logo=safari&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**💬 Open to:** `Collaborations` `Job Opportunities` `Coffee Chats` `AI Discussions` `Project Ideas`
 
 </div>
 
@@ -160,6 +277,16 @@ I love working at the intersection of **core software engineering** and **AI**, 
 
 <div align="center">
 
-💖 **Thanks for visiting!** If you like my work, consider giving my repos a ⭐
+### 💖 Thanks for Visiting!
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
+
+<br/>
+
+*If you like my work, consider giving my repos a ⭐*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=80&section=footer"/>
 
 </div>
