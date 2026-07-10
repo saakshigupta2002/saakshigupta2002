@@ -1,24 +1,8 @@
-<div align="center">
-
-# ✿ Hi, I'm Saakshi ✿
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=22&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=Software+Engineer+%7C+AI+Enthusiast;UQ+'25+Graduate+%7C+Always+Learning+✨"/>
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB6C1?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saakshigupta-/)
-[![Gmail](https://img.shields.io/badge/Gmail-FFB6C1?style=flat-square&logo=gmail&logoColor=white)](mailto:saakshigupta2002@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-FFB6C1?style=flat-square&logo=github&logoColor=white)](https://github.com/saakshigupta2002)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFB6C1?style=flat-square&logo=safari&logoColor=white)](https://saakshi-gupta.vercel.app)
-[![Medium](https://img.shields.io/badge/Medium-FFB6C1?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@saakshigupta2002)
-
-</div>
-
-<!-- ─────────────────  HERO: ASCII-art portrait + neofetch card  ───────────────── -->
+<!-- ─────────────────  ASCII-art portrait + neofetch profile card  ───────────────── -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/saakshigupta2002/saakshigupta2002/main/assets/profile-ascii.svg" width="880" alt="Saakshi Gupta — ASCII portrait & neofetch profile card" />
+<img src="https://raw.githubusercontent.com/saakshigupta2002/saakshigupta2002/main/assets/profile-ascii.svg" width="900" alt="Saakshi Gupta — ASCII portrait & neofetch profile card" />
 
 <br/>
 
